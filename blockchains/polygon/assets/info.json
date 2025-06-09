@@ -1,0 +1,11 @@
+{
+  "name": "Noorelah Wage Token 2",
+  "symbol": "NWR2",
+  "decimals": 18,
+  "description": "We are here to share and care — all belongs to us.",
+  "website": "https://nwr2.site",
+  "explorer": "https://polygonscan.com/token/0x91966374D8E227B077EAFF6Ba557241e0c9392F3",
+  "status": "active",
+  "id": "0x91966374D8E227B077EAFF6Ba557241e0c9392F3",
+  "type": "ERC20"
+}
